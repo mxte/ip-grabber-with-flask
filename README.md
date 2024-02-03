@@ -15,4 +15,3 @@ EX: https://discord.com/api/webhooks/29089824/KJDJHUGCHBGC<br>
 # Support
 - Follow 
 - Star
-- Add szpl on discord
